@@ -3,11 +3,11 @@
 
 <h1  align="center">Hi 👋, I'm Gaurav Mehra</h1>
 
-<h3  align="center">Risk & Compliance Intern | EC-Council CEHv11 | Computer Science Graduate</h3>
+<h3  align="center">Information Security | EC-Council CEHv11 | Computer Science Graduate</h3>
 
 <p  align="left">  <img  src="https://komarev.com/ghpvc/?username=gauravmehraa&label=Profile%20views&color=000000&style=flat"  alt="gauravmehraa"  />  </p>
 
-- 🔭 I’m currently working as a **Risk & Compliance Intern** at **ERGO Technology & Services**
+- 🔭 I recently worked as a **Risk & Compliance Intern** at **ERGO Technology & Services**
 
 - 🌱 I’m currently learning **Governance, Risk & Compliance**
 
